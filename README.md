@@ -29,4 +29,4 @@ Doubtful that it's actually working...
 
 ![alt text](Images/image2.png "It really actually works!")
 
-Ah yes, it actually works!
+Ah yes, it's actually working!
