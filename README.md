@@ -22,3 +22,11 @@ I adapted TensorFlow's Object Detection to detect live video from my laptop webc
 - I was inspired to build my own version of this project by [Dat Tran's Article](https://towardsdatascience.com/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32).
 
 ## Results
+
+![alt text](Images/image1.png "It actually works!")
+
+Doubtful that it's actually working...
+
+![alt text](Images/image2.png "It really actually works!")
+
+Ah yes, it actually works!
